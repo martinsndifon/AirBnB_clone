@@ -67,10 +67,12 @@
 
 .filters .locations .popover {
 	left: 0;
+	top: 57px;
 }
 
 .filters .amenities .popover {
-	left: 30%;
+	left: 30.1%;
+	top: 57px;
 }
 
 .filters .locations:hover .popover, .filters .amenities:hover .popover {
