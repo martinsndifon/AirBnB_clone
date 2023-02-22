@@ -1,3 +1,8 @@
+html, body {
+	max-width: 100%;
+	overflow-x: hidden;
+}
+
 body {
 	margin: 0;
 	padding: 0;
@@ -8,6 +13,6 @@ body {
 
 .container {
 	max-width: 1000px;
-	margin: 30px auto 30px auto;
+	margin: 30px auto;
 	position: relative;
 }
